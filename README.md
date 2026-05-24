@@ -1,6 +1,6 @@
 # No Wintermute Misclicks
 
-A simple quality-of-life mod for [**The Long Dark**](https://www.hinterlandgames.com/the-long-dark/) by [**Hinterland Studio**](https://hinterlandgames.com/). That prevents accidental clicks on the **WINTERMUTE** (Story Mode) button in the main menu. 
+A simple quality-of-life mod for [**The Long Dark**](https://www.hinterlandgames.com/the-long-dark/) by [**Hinterland Studio**](https://hinterlandgames.com/) that prevents accidental clicks on the **WINTERMUTE** (Story Mode) button in the main menu.
 
 Accidental clicks on the story mode will no longer trigger a long loading screen. This mod adds a confirmation dialogue box to the main menu, protecting you from misclicks when selecting "WINTERMUTE".
 
