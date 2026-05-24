@@ -5,7 +5,7 @@ A simple quality-of-life mod for **The Long Dark** (compatible with MelonLoader 
 Tired of accidentally triggering a heavy story-mode loading screen while trying to click "Survival"? This mod adds a native game confirmation dialogue box to keep your main menu experience seamless and misclick-free.
 
 ## Installation
-1. Make sure you have [MelonLoader]([https://github.com](https://github.com/LavaGang/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)) installed for your game.
+1. Make sure you have [MelonLoader]([https://github.com/LavaGang/MelonLoader/releases/latest/download/MelonLoader.Installer.exe]) installed for your game.
 2. Download the latest `NoWintermuteMisclicks.dll` from the [Releases](../../releases) section.
 3. Drop the `.dll` file into your game's `Mods` directory (e.g., `TheLongDark/Mods/`).
 4. Launch the game and enjoy a misclick-free menu!
