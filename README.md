@@ -2,7 +2,7 @@
 
 A simple quality-of-life mod for [**The Long Dark**](https://www.hinterlandgames.com/the-long-dark/) by [**Hinterland Studio**](https://hinterlandgames.com/). That prevents accidental clicks on the **WINTERMUTE** (Story Mode) button in the main menu. 
 
-Tired of accidentally triggering a heavy story-mode loading screen while trying to click "Survival"? This mod adds a native game confirmation dialogue box to keep your main menu experience seamless and misclick-free.
+Accidental clicks on the story mode will no longer trigger a long loading screen. This mod adds a confirmation dialogue box to the main menu, protecting you from misclicks when selecting "WINTERMUTE".
 
 ## Installation
 1. Make sure you have [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/latest/download/MelonLoader.Installer.exe) installed for your game.
