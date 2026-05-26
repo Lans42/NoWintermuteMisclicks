@@ -1,0 +1,17 @@
+name: Code Quality Check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Run Qodana Scan
+      uses: JetBrains/qodana-action@v2026.1.0
+      with:
+        args: --severity,Warning
